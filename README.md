@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/GitHub_Welcome.png?raw=true" align="center"  />
+<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/GitHub_Welcome2.png?raw=true" align="center"  />
 </div>  
   
 

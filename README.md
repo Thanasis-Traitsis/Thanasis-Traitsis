@@ -16,17 +16,6 @@ This is my portfolio. Here you can read about my story, my coding skills and in 
 
 <br/>
 
-## Some of my Projects
-<div>
-  <ul>
-    <li><a href="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis.github.io"><b>My portfolio</b></a><br/><i>Designed and implemented my one-page website.</i></li>
-    <li><a href="https://github.com/Thanasis-Traitsis/Connect_4"><b>Connect 4</b></a><br/><i>Connect Four is a two-player connection board game.</i></li>
-    <li><a href="https://github.com/Thanasis-Traitsis/React-Food-Recipes"><b>Deliciousss</b></a><br/><i>This is a "food" related website based on React.js.</i></li>
-  </ul>
-</div>
-
-<br/>
-
 ## I like to code with
 <div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
@@ -44,6 +33,17 @@ This is my portfolio. Here you can read about my story, my coding skills and in 
 </div>
 
 <br/>  
+
+## Some of my Projects
+<div>
+  <ul>
+    <li><a href="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis.github.io"><b>My portfolio</b></a><br/><i>Designed and implemented my one-page website.</i></li>
+    <li><a href="https://github.com/Thanasis-Traitsis/Connect_4"><b>Connect 4</b></a><br/><i>Connect Four is a two-player connection board game.</i></li>
+    <li><a href="https://github.com/Thanasis-Traitsis/React-Food-Recipes"><b>Deliciousss</b></a><br/><i>This is a "food" related website based on React.js.</i></li>
+  </ul>
+</div>
+
+<br/>
 
 ## Connect with me  
 <div>

@@ -6,11 +6,20 @@
 <img src="https://komarev.com/ghpvc/?username=Thanasis-Traitsis&&style=flat-square" align="center" />
 </div>
 <br/>
-<div>I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div>  
-  
+<div align="center">I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div> 
 
-<br/>  
+<br/>
 
+## Some of my Projects
+<div>
+  <ul>
+    <li><a href="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis.github.io"><b>My portfolio</b></a><br/><i>Designed and implemented my one-page website.</i></li>
+    <li><a href="https://github.com/Thanasis-Traitsis/Connect_4"><b>Connect 4</b></a><br/><i>Connect Four is a two-player connection board game.</i></li>
+    <li><a href="https://github.com/Thanasis-Traitsis/React-Food-Recipes"><b>Deliciousss</b></a><br/><i>This is a "food" related website based on React.js.</i></li>
+  </ul>
+</div>
+
+<br/>
 
 ## I like to code with
 <div>  
@@ -29,7 +38,6 @@
 </div>
 
 <br/>  
-
 
 ## Connect with me  
 <div>

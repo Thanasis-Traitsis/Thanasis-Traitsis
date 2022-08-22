@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Thanasis-Traitsis&&style=flat-square" align="center" />
 </div>
 <br/>
-<div align="center">I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div>  
+<div>I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div>  
   
 
 <br/>  
@@ -32,11 +32,11 @@
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/Thanasis-Traitsis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thanasis-traitsis/" target="_blank">
+<a href="https://www.linkedin.com/in/thanasis-traitsis/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  <a href="mailto:thanasiswd@gmail.com" target="_blank">

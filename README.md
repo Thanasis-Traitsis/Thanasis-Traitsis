@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thanasis, I live in Greece 🇬🇷 and I love to express myself through the web. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the Computer Science BSc </div>  
+### <div align="center">I'm Thanasis, I live in Greece ![image](https://user-images.githubusercontent.com/73651594/185963751-3e64ec0c-f548-4cde-8ecd-02ef42014216.png) and I love to express myself through the web. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the Computer Science BSc </div>  
   
 
 <br/>  

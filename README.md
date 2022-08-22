@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/GitHub_Welcome.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/GitHub_Welcome.png?raw=true" align="center"  />
 </div>  
   
 
-### <div align="center">I'm Thanasis, I live in Greece ![image](https://user-images.githubusercontent.com/73651594/185963751-3e64ec0c-f548-4cde-8ecd-02ef42014216.png) and I love to express myself through the web. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the Computer Science BSc </div>  
+<div align="center">I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div>  
   
 
 <br/>  

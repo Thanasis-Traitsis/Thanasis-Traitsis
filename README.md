@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/73651594/187280918-003e0204-97f5-4303-
 ## Some of my Projects
 <div>
   <ul>
-    <li><a href="https://github.com/Thanasis-Traitsis/Photographers-Website"><b>My portfolio</b></a><br/><i>Designed and developed a four-page website for a photographer / graphic designer..</i></li>
+    <li><a href="https://github.com/Thanasis-Traitsis/Photographers-Website"><b>Photographer's website</b></a><br/><i>Designed and developed a four-page website for a photographer / graphic designer..</i></li>
     <li><a href="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis.github.io"><b>My portfolio</b></a><br/><i>Designed and implemented my one-page website.</i></li>
     <li><a href="https://github.com/Thanasis-Traitsis/Connect_4"><b>Connect 4</b></a><br/><i>Connect Four is a two-player connection board game.</i></li>
     <li><a href="https://github.com/Thanasis-Traitsis/React-Food-Recipes"><b>Deliciousss</b></a><br/><i>This is a "food" related website based on React.js.</i></li>

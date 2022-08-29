@@ -20,7 +20,7 @@ This is my portfolio. Here you can read about my story, my coding skills and in 
 
 This is my latest project, I designed and developed a four-page website for a photographer / graphic designer. I managed to develop a fully functional and user-friendly website with unique animation ideas. Successfully overcame every problem on the way, managing to complete a fully responsive website that stands out.
 
-![](https://user-images.githubusercontent.com/73651594/187280918-003e0204-97f5-4303-88c6-4413fac80334.mp4)
+https://user-images.githubusercontent.com/73651594/187280918-003e0204-97f5-4303-88c6-4413fac80334.mp4
 
 *This website is not yet available on a live server, but it will be completed very soon. STAY TUNED! *
 

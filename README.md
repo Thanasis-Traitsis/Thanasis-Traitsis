@@ -22,8 +22,7 @@ This is my latest project, I designed and developed a four-page website for a ph
 
 https://user-images.githubusercontent.com/73651594/187280918-003e0204-97f5-4303-88c6-4413fac80334.mp4
 
-*This website is not yet available on a live server, but it will be completed very soon. STAY TUNED! *
-
+Visit the full webiste here: https://marioskgm.netlify.app/
 
 <br/>
 

@@ -1,6 +1,6 @@
 # Hey! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <div align="center">
-<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/github.png?raw=true" align="center"  />
+<img src="https://github.com/Thanasis-Traitsis/Thanasis-Traitsis/blob/main/Github_Welcome.png" align="center"  />
 </div>
 <br/>
 <div align="left">I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div> 

@@ -5,8 +5,6 @@
 <br/>
 <div align="left">I'm Thanasis, I live in Greece <img src="https://cdn-icons-png.flaticon.com/512/330/330515.png" width="20"/> and I love to <b> express </b> myself through the <b> web </b>. Currently, I'm in my last year of studies at the International Hellenic University, reaching out for the <b>Computer Science BSc.</b> </div> 
 <div align="center">
-<br/>  
-<img src="https://komarev.com/ghpvc/?username=Thanasis-Traitsis&&style=flat-square" align="center" />
 </div>
 <br/>
 

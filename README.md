@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-👩‍💻 I'm currently honing my skills in Frontend and Flutter Development by working on various projects that challenge me to push my limits and explore new techniques and technologies.
+👨‍💻 I'm currently honing my skills in Frontend and Flutter Development by working on various projects that challenge me to push my limits and explore new techniques and technologies.
 
 🧠 I am currently expanding my Frontend technologies expertise by delving deeper into Vue.js.
 

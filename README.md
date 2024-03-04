@@ -21,12 +21,12 @@ This is my portfolio. Here you can read about my story, my coding skills and in 
 <br>
 While the concept of the game may seem familiar at first glance, the experience for players is truly unique. Every stage presents a new set of challenges, with difficulty increasing as you advance through the game.
 
-### Technologies and Tools I used:
+**Technologies and Tools I used:** <br>
 - Flutter, Dart, Firebase, AndroidStudio, XCode, VSCode, Figma, JavaScript, bun
 
 You can view the source code here: <a href="https://github.com/Thanasis-Traitsis/find_the_words"><b>Find The Words</b></a>
 
-### Available at:
+**Available at:** <br>
 This app will be soon available in both <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code> and <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>. 
 
 ## This is what I like to work with

@@ -37,7 +37,7 @@ This app will be soon available in both <code><img height="27" src="https://raw.
 [![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
 [![Flutter Boilerplates](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter-boiler-plates&theme=swift)](https://github.com/Thanasis-Traitsis/flutter-boiler-plates)
 
-*You can always show some love ❤️ by starring some of the repositories*
+You can always show some love ❤️ by starring some of the repositories!
 
 ## Connect with me  
 <a href="https://github.com/Thanasis-Traitsis">

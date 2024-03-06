@@ -35,7 +35,7 @@ This app will be soon available in both <code><img height="27" src="https://raw.
 ## Some of my projects
 [![JobFind for Students](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
 [![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
-[![Flutter Boilerplates](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter-boiler-plates &theme=swift)](https://github.com/Thanasis-Traitsis/flutter-boiler-plates )
+[![Flutter Boilerplates](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter-boiler-plates&theme=swift)](https://github.com/Thanasis-Traitsis/flutter-boiler-plates )
 [![Flutter Image Upload and Crop](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter_upload_crop_image&theme=swift)](https://github.com/Thanasis-Traitsis/flutter_upload_crop_image)
 
 ## Connect with me  

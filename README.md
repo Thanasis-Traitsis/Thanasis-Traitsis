@@ -9,7 +9,7 @@ I'm **Flutter** enthusiast and Frontend software developer from Greece 🇬🇷,
 - [dev.to](https://dev.to/thanasistraitsis)
 - [sudorealm](https://sudorealm.com/blog/profile/athanasios-traitsis)
 
-If you find any of my articles helpful, consider buying me a cup of coffee (because coffee is the secret key to success).<br><br>
+If you find any of my articles helpful, consider buying me a cup of coffee (because coffee is the secret key to success).<br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thanasis_traitsis)
 
 ## My Personal Website
@@ -36,6 +36,8 @@ This app will be soon available in both <code><img height="27" src="https://raw.
 [![JobFind for Students](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
 [![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
 [![Flutter Boilerplates](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter-boiler-plates&theme=swift)](https://github.com/Thanasis-Traitsis/flutter-boiler-plates)
+
+*You can always show some love ❤️ by starring some of the repositories*
 
 ## Connect with me  
 <a href="https://github.com/Thanasis-Traitsis">

@@ -9,7 +9,7 @@ I'm **Flutter** enthusiast and Frontend software developer from Greece 🇬🇷,
 - [dev.to](https://dev.to/thanasistraitsis)
 - [sudorealm](https://sudorealm.com/blog/profile/athanasios-traitsis)
 
-If you find any of my articles helpful, consider buying me a cup of coffee (because coffee is the secret key to success).<br>
+If you find any of my articles helpful, consider buying me a cup of coffee (because coffee is the secret key to success).<br><br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thanasis_traitsis)
 
 ## My Personal Website

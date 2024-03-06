@@ -29,6 +29,11 @@ You can view the source code here: <a href="https://github.com/Thanasis-Traitsis
 **Available at:** <br>
 This app will be soon available in both <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code> and <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>. 
 
+
+## Some of my projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
+
 ## This is what I like to work with
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,vue,js,html,css,sass,tailwind,bun,vscode,figma,postman,git,stackoverflow,devto&perline=9)](https://skillicons.dev)
 

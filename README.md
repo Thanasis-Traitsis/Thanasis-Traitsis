@@ -32,7 +32,8 @@ This app will be soon available in both <code><img height="27" src="https://raw.
 
 ## Some of my projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
+[![JobFind for Students](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
+[![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
 
 ## This is what I like to work with
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,vue,js,html,css,sass,tailwind,bun,vscode,figma,postman,git,stackoverflow,devto&perline=9)](https://skillicons.dev)

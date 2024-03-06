@@ -29,14 +29,14 @@ You can view the source code here: <a href="https://github.com/Thanasis-Traitsis
 **Available at:** <br>
 This app will be soon available in both <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code> and <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>. 
 
-
-## Some of my projects
-
-[![JobFind for Students](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
-[![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
-
 ## This is what I like to work with
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,firebase,vue,js,html,css,sass,tailwind,bun,vscode,figma,postman,git,stackoverflow,devto&perline=9)](https://skillicons.dev)
+
+## Some of my projects
+[![JobFind for Students](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=jobfind_for_students&theme=swift)](https://github.com/Thanasis-Traitsis/jobfind_for_students)
+[![Find the Words](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=find_the_words&theme=swift)](https://github.com/Thanasis-Traitsis/find_the_words)
+[![Flutter Boilerplates](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter-boiler-plates &theme=swift)](https://github.com/Thanasis-Traitsis/flutter-boiler-plates )
+[![Flutter Image Upload and Crop](https://github-readme-stats.vercel.app/api/pin/?username=Thanasis-Traitsis&repo=flutter_upload_crop_image&theme=swift)](https://github.com/Thanasis-Traitsis/flutter_upload_crop_image)
 
 ## Connect with me  
 <a href="https://github.com/Thanasis-Traitsis">

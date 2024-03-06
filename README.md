@@ -26,6 +26,7 @@ This is my portfolio. Here you can read about my story, my coding skills and in 
 While the concept of the game may seem familiar at first glance, the experience for players is truly unique. Every stage presents a new set of challenges, with difficulty increasing as you advance through the game.
 
 <br>
+
 **Technologies and Tools I used:** <br>
 - Flutter, Dart, Firebase, AndroidStudio, XCode, VSCode, Figma, JavaScript, bun
 

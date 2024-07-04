@@ -33,7 +33,7 @@ While the concept of the game may seem familiar at first glance, the experience 
 You can view the source code here: <a href="https://github.com/Thanasis-Traitsis/find_the_words"><b>Find The Words</b></a>
 
 **Available at:** <br>
-This app will be soon available in both <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code> and <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>. 
+This app is available in both <a href="https://play.google.com/store/apps/details?id=com.thanasistraitsis.find_the_words"><code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code></a> and <a href="https://apps.apple.com/gr/app/%CE%B2%CF%81%CE%B5%CF%82-%CF%84%CE%B9%CF%82-%CE%BB%CE%AD%CE%BE%CE%B5%CE%B9%CF%82-crosswords/id6505016618"><code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code></a>. 
 
 <br>
 

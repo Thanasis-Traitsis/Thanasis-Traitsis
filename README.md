@@ -1,5 +1,5 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hey! I'm Thanasis Traitsis 
-I'm **Flutter** enthusiast and Frontend software developer from Greece 🇬🇷, with passion for **mobile development**. Through both professional work and freelance projects, I've honed my skills in crafting applications. After navigating through numerous coding nightmares, I discovered the beauty of the coding community and the invaluable support it offers. Inspired by all of this, I started a blogging journey to share my insights and help fellow developers navigate their coding adventures.
+I'm **Flutter** enthusiast and Mobile Software Engineer from Greece 🇬🇷, with passion for **mobile development**. Through both professional work and freelance projects, I've honed my skills in crafting applications. After navigating through numerous coding nightmares, I discovered the beauty of the coding community and the invaluable support it offers. Inspired by all of this, I started a blogging journey to share my insights and help fellow developers navigate their coding adventures.
 
 🎓 Graduated from Department of Information Technology and Electronic Systems Engineering, of the International University of Greece (IHU).
 

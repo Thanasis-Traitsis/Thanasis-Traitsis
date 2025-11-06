@@ -3,7 +3,7 @@ I'm **Flutter** enthusiast and Mobile Software Engineer from Greece 🇬🇷, wi
 
 🎓 Graduated from Department of Information Technology and Electronic Systems Engineering, of the International University of Greece (IHU).
 
-👨‍💻 I'm currently honing my skills in Flutter Development by working on various projects that challenge me to push my limits and explore new techniques and technologies.
+👨‍💻 I'm currently honing my skills in Flutter Development by working on various projects that challenge me to push my limits and explore new techniques and technologies. Also, I am working on my native mobile expertise in Android/Kotlin development through professional work and personal projects.
 
 📝 Join me on this learning adventure, and let's explore the **"Flutterverse"** together. You can read all of my blogs here:
 - [dev.to](https://dev.to/thanasistraitsis)

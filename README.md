@@ -25,13 +25,18 @@ You can find all my articles in my [dev.to](https://dev.to/thanasistraitsis) pag
 
 ## My First Mobile Game
 
-<img src="https://github.com/Thanasis-Traitsis/find_the_words/blob/main/photos/wallpaper.png?raw=true" width="400"> <br>
+<img src="https://github.com/Thanasis-Traitsis/find_the_words_v2/blob/main/assets/icons/home_logo.svg?raw=true" width="400"> <br>
 
-**Βρες τις Λέξεις** — a dynamic Greek word puzzle game where every stage is procedurally generated based on your progress.
+**Βρες τις Λέξεις** —  an engaging and dynamic mobile word puzzle game that's set to revolutionize the crossword experience. Unlike traditional word games that rely on static, pre-built puzzles, every single stage in Βρες τις Λέξεις is dynamically generated based on your progress.
 
 **Available at:** <br>
-<a href="https://play.google.com/store/apps/details?id=com.thanasistraitsis.find_the_words"><code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code> Google Play</a> &nbsp;&nbsp;
-<a href="https://apps.apple.com/gr/app/%CE%B2%CF%81%CE%B5%CF%82-%CF%84%CE%B9%CF%82-%CE%BB%CE%AD%CE%BE%CE%B5%CE%B9%CF%82-crosswords/id6505016618"><code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code> App Store</a>
+<a href="https://play.google.com/store/apps/details?id=com.thanasistraitsis.find_the_words">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play">
+</a>
+&nbsp;
+<a href="https://apps.apple.com/gr/app/%CE%B2%CF%81%CE%B5%CF%82-%CF%84%CE%B9%CF%82-%CE%BB%CE%AD%CE%BE%CE%B5%CE%B9%CF%82-crosswords/id6505016618">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the App Store">
+</a>
 
 
 ## Tech Stack

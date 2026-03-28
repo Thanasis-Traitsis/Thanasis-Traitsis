@@ -22,7 +22,7 @@ Mobile Software Engineer from Greece 🇬🇷, with expertise in **Flutter** and
 - [The Ultimate Guide to Flutter Lists with Bloc : Part 2](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-2-1o67)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read all my articles on dev.to](https://dev.to/thanasistraitsis)
+You can find all my articles in my **dev.to** page. [Click here to read all my articles](https://dev.to/thanasistraitsis)
 
 <br>
 

@@ -9,6 +9,8 @@ Mobile Software Engineer from Greece 🇬🇷, with expertise in **Flutter** and
 
 📖 Currently reading: **Designing Data-Intensive Applications** by Martin Kleppmann.
 
+**Next Project:** [my_eyes_flutter](https://github.com/Thanasis-Traitsis/my_eyes_flutter) — stay tuned, something exciting is coming! 👀
+
 
 ## Latest Blog Posts
 

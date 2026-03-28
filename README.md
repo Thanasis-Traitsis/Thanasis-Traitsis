@@ -29,6 +29,8 @@ You can find all my articles in my [dev.to](https://dev.to/thanasistraitsis) pag
 
 **Βρες τις Λέξεις** —  an engaging and dynamic mobile word puzzle game that's set to revolutionize the crossword experience. Unlike traditional word games that rely on static, pre-built puzzles, every single stage in Βρες τις Λέξεις is dynamically generated based on your progress.
 
+Check all the details in the [website](https://thanasistraitsis.com/projects/find-the-words).
+
 **Available at:** <br>
 <a href="https://play.google.com/store/apps/details?id=com.thanasistraitsis.find_the_words">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play">

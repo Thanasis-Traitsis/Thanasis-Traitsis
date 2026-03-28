@@ -15,6 +15,11 @@ Mobile Software Engineer from Greece 🇬🇷, with expertise in **Flutter** and
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter App Taking Too Long to Start? Here&#39;s What You&#39;re Doing Wrong](https://dev.to/thanasistraitsis/flutter-app-taking-too-long-to-start-heres-what-youre-doing-wrong-2a05)
+- [Flutter Sticky Bottom Button: Beyond the FloatingActionButton](https://dev.to/thanasistraitsis/flutter-sticky-bottom-button-beyond-the-floatingactionbutton-2i7o)
+- [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
+- [The Ultimate Guide to Flutter Lists with Bloc : Part 3](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-3-599e)
+- [The Ultimate Guide to Flutter Lists with Bloc : Part 2](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-2-1o67)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all my articles on dev.to](https://dev.to/thanasistraitsis)

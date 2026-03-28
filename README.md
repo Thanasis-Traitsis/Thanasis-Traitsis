@@ -36,7 +36,7 @@ You can find all my articles in my [dev.to](https://dev.to/thanasistraitsis) pag
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,android,kotlin,androidstudio,apple,firebase,vue,js,html,css,sass,tailwind,bun,vscode,figma,postman,git,stackoverflow,devto&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,vue,js,html,css,sass,tailwind,bun,vscode,figma,postman,git,gitlab,stackoverflow,devto&perline=10)](https://skillicons.dev)
 
 <br>
 

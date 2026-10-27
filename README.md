@@ -15,11 +15,11 @@ Mobile Software Engineer from Greece 🇬🇷, with expertise in **Flutter** and
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Really Happens When You Tap a Push Notification in Flutter](https://dev.to/thanasistraitsis/what-really-happens-when-you-tap-a-push-notification-in-flutter-2e7e)
 - [Building Local Notifications in Flutter...Properly](https://dev.to/thanasistraitsis/building-local-notifications-in-flutterproperly-26o7)
 - [The Context Behind the Context: How Flutter Navigation Really Works](https://dev.to/thanasistraitsis/the-context-behind-the-context-how-flutter-navigation-really-works-4j4)
 - [Flutter App Taking Too Long to Start? Here&#39;s What You&#39;re Doing Wrong](https://dev.to/thanasistraitsis/flutter-app-taking-too-long-to-start-heres-what-youre-doing-wrong-2a05)
 - [Flutter Sticky Bottom Button: Beyond the FloatingActionButton](https://dev.to/thanasistraitsis/flutter-sticky-bottom-button-beyond-the-floatingactionbutton-2i7o)
-- [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all my articles in my [dev.to](https://dev.to/thanasistraitsis) page.
